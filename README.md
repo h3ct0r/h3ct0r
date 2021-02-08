@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋!
+
+I'm a robotics researcher, maker, and a tinkerer!
+
+- 🔭 I’m currently working on mobile robotics, navigation and exploration :robot:.
+- 📫 How to reach me: drop a message on [my personal site](http://hector.azpurua.me/ "h3ct0r's Homepage") or open an issue.
 
 <!--
 **h3ct0r/h3ct0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
