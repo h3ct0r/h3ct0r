@@ -1,6 +1,6 @@
 ### Hello 👋!
 
-I'm a robotics researcher, maker, and a tinkerer!
+I'm a robotics researcher, maker, and a PhD student!
 
 - 🔭 I’m currently working on mobile robotics, navigation and exploration :robot:.
 - 📫 How to reach me: drop a message on [my personal site](http://hector.azpurua.me/ "h3ct0r's Homepage") or open an issue.
