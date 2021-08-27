@@ -3,6 +3,7 @@
 I'm a robotics researcher, maker, and a PhD student!
 
 - 🔭 I’m currently working on mobile robotics, navigation and exploration :robot:.
+- I'm also passionate about artificial intelligence, computer vision, and cyber-security :unlock:!
 - 📫 How to reach me: drop a message on [my personal site](http://hector.azpurua.me/ "h3ct0r's Homepage") or open an issue.
 
 <!--
