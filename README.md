@@ -1,6 +1,6 @@
 ### Hello 👋!
 
-I'm a robotics and ML researcher and maker!
+I'm a robotics and ML researcher!
 
 - 🔭 I’m currently working on mobile robotics, navigation and exploration :robot:.
 - I'm also passionate about artificial intelligence, computer vision, and cyber-security :unlock:!
