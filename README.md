@@ -1,9 +1,9 @@
 ### Hello 👋!
 
-I'm a robotics and ML researcher!
+I'm a professor in the UFMG's Computer Science department, and a researcher in robotics and computer vision!
 
 - 🔭 I’m currently working on mobile robotics, navigation and exploration :robot:.
-- I'm also passionate about artificial intelligence, computer vision, and cyber-security :unlock:!
+- I'm also passionate about general artificial intelligence, computer vision, and cyber-security :unlock:!
 - 📫 How to reach me: drop a message on [my personal site](https://h3ct0r.github.io/ "h3ct0r's Homepage") or open an issue.
 
 <!--
